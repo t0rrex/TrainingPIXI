@@ -1,0 +1,11 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "dependencies": {
+    "pixi.js": "latest",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  }
+}
